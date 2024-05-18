@@ -1,0 +1,94 @@
+<html>
+<head>
+   <style>
+ body{
+           display:flex;
+           justify-content:center;
+           align-items:center;
+          }
+ .inner{
+            background-color:white;
+            height:400px;
+            width:600px;
+            border-radius:5px;
+          }
+table{
+          margin-left:30px;
+          padding-top:20px;
+         }
+ .outer{
+            background-color:rgb(68,68,255);
+            height:500px;
+            width:800px;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+           }
+</style>
+</head>
+<body>
+<form>
+<div class="outer">
+<div class="inner">
+<table>
+<tr>
+<td>
+<h1>
+Registration</h1></td>
+</tr>
+<tr>
+<td>Personal Details</td></tr>
+<tr>
+<td>
+<form>
+Full name<br>
+<input type="text"></td>
+<td>Date of Birth<br>
+<input type="date"></td>
+<td>Email<br>
+<input type="email"></td>
+</tr>
+<tr>
+<td>
+Mobile number<br>
+<input type="number"></td>
+<td>
+Gender<br>
+<select>
+<option>Male</option>
+<option>Female</option>
+</select>
+</td>
+<td>Occupation<br>
+<input type="text">
+</td>
+</tr>
+<tr>
+<td>Identity Details</td></tr>
+<tr>
+<td>ID Type<br>
+<input type="text"></td>
+<td>ID Number<br>
+<input type="number"></td>
+<td>Issue Authority<br>
+<input type="text">
+</td>
+</tr>
+<tr>
+<td>Issue Date<br>
+<input type="date"></td>
+<td>
+Issue State<br>
+<input type="text"></td>
+<td>Expiry Date<br>
+<input type="date"></td>
+</tr>
+<td>
+<input type="button" value="Next" style="background-color:blue;color:white; width:100px;">
+</td>
+</tr>
+</form>
+</table>
+</table>
+</body>
+</html>

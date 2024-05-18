@@ -1,0 +1,24 @@
+.h1{
+      text-align:center;
+      color:blue;
+     }
+ .f1{
+        color:red;
+        font-size:30px;
+      }
+.f2{
+      color:yellow;
+      font-size:25px;
+   }
+.f3{
+      color:cyan;
+      font-size:20px;
+    }
+.f4{
+     color:green;
+     font-size:35px;
+  }
+.f5{
+      color:pink;
+      font-size:40px;
+    }

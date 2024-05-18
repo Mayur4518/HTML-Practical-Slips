@@ -1,0 +1,8 @@
+<html>
+<body>
+<svg>
+ <line x1="10" y1="10" x2="200" y2="200"'  
+    style="stroke:cyan; stroke-width:10"/>
+</svg>
+</body>
+</html>

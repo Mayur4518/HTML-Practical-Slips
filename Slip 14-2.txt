@@ -1,0 +1,6 @@
+<html>
+<svg width="300" height="300">
+  <polygon points="100,10,70,198,190,78,10,78,160,200" fill="red" stroke="cyan"
+     stroke-width="2"/>
+</svg>
+</html>

@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+          h1{
+               color:green;
+               }
+          p{
+              color:blue;
+             }
+        .center{
+                      text-align:center;
+                    }
+         .button{
+                       background-color:red;
+                       color:white;
+                       padding:10px 20px;
+                       border:none;
+                       border-radius:5px;
+                       cursor:pointer;
+                     }
+</style>
+</head>
+<body>
+<h1>HEADING</h1>
+<p>Rayat Shikshan Sanstha, Satara is a premier educational institution which has invited the attention of international educational fraternity towards its recognition as the biggest educational institution in Asia both in quality and quantity parameters. The Founder of Sanstha, Dr. Karmaveer Bhaurao Patil had an incisive understanding of the social ills that beset his times and fully realized the dire need of the spread of education. From the very beginning, Sanstha has laid emphasis on the education for the downtrodden and the poor that really form the major bulk of the society.</p>
+<p>
+Today, Sanstha runs 42 senior colleges, a newly added 1 research institute, 438 secondary schools, 8 training colleges, 42 primary schools, 31 pre-primary schools, 80 cosmopolitan hostels, 7 administrative offices, 8 ashramshalas, and 57 ancillary branches. It is spread over in 15 districts of Maharashtra and 1 district of Karnataka with 14627 employees belonging to different 170 castes and communities and 4 Lakh 54 Thousand 165 students.</p>
+<div class="center">
+<button class="button">Click</button>
+</div>
+</body>
+</html>
