@@ -1,0 +1,22 @@
+ <html>
+ <head>
+   <style>
+   #button{
+                 background-color:green;
+                 color:white;
+                 border:none;
+                }
+   </style>
+</head>
+<body>
+<form>
+  Name
+<input type="text"><br>
+Email
+ <input type="email"><br>
+Password
+<input type="password"><br>
+<input type="submit" value="sign up" id="button">
+</form>
+</body>
+</html>

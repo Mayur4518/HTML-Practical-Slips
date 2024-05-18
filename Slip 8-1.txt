@@ -1,0 +1,27 @@
+<html>
+<body>
+Personal Details
+<form>
+Salutation<br>
+<select>
+<option>None</option>
+<option>Good Morning</option>
+<option>Namaste</option>
+</select><br>
+First name:
+<input type="text"><br>
+Last name:
+<input type="text"><br>
+Gender:
+<input type="radio" name="m1">Male
+<input type="radio" name="m1">Female<br>
+Email:
+<input type="email"><br>
+Date of Birth:
+<input type="date"><br>
+Address:<br>
+<textarea rows="3"></textarea><br>
+<input type="submit">
+</form>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<frameset rows="50%,*">
+<frameset cols="20%,80%">
+<frame src="html1.html">
+<frame src="html2.html">
+</frameset>
+<frameset cols="80%,*">
+<frame src="html3.html">
+<frame src="html4.html">
+</frameset>
+</frameset>
+</html>

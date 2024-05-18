@@ -1,0 +1,32 @@
+<html>
+<body>
+<h1 color="green">GeeksforGeeks</h1>
+Nested tables
+<table border="1" border-color="green">
+<tr>
+<td>Main Table row 1 columns 1</td>
+<td>Main Table column 2
+<table border="1">
+<tr>
+<td>Inner Table row 1 column 1</td>
+<td>Inner Table row 1 column 2</td>
+</tr>
+<tr>
+<td>Inner Table row 2 column 1</td>
+<td>Inner Table row 2 column 2</td>
+</tr>
+<tr>
+<td>Inner Table row 3 column 1</td>
+<td>Inner Table row 3 column 2</td>
+<td>Inner Table row 3 column 3</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Main Table row 2 column 1</td>
+<td>Main Table row 2 column 2</td>
+</tr>
+</table>
+</body>
+</html>

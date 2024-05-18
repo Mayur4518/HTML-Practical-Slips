@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Lists of fruit</h1>
+<ul>
+<li style="color:red;font-size:15px;">Apple</li>
+<li style="color:yellow;font-size:20px;">Banana</li>
+<li style="color:Green;font-size:25px;">Pineapple</li>
+<li style="color:orange;font-size:30px;">Orange</li>
+<li style="color:cyan;font-size:40px;">Mango</li>
+</ul>
+</body>
+</html>

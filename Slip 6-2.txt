@@ -1,0 +1,16 @@
+<html>
+<body>
+<canvas id="circle" height="500" width="500"
+  style="border:1px solid cyan;">
+</canvas>
+<script>
+var c=document.getElementById("circle");
+var ctx=c.getContext("2d");
+var grad=ctx.CreateRadialGradient(50,50,80,50,50,20);
+grad.addColorStop("0","black");
+grad.addColorStop(1,"yellow");
+ctx.fillStyle=grad;
+ctx.fillRect(50,40,150,150,100,100);
+</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<html>
+<body>
+<table border="1" align=center width="50%" height="50%">
+ <tr>
+ <th>Table Heading</th>
+<th>Table Heading</th>
+<th>Table Heading</th>
+</tr>
+<tr>
+<td>Table Data</td>
+<td>Table Data</td>
+<td>Table Data</td>
+</tr>
+<tr>
+<td>Table Data</td>
+<td>Table Data
+<table border="1" width="100%" height="80%">
+  <tr>
+ <th>Table Heading</th>
+<th>Table Heading</th>
+<th>Table Heading</th>
+</tr>
+<tr>
+<td>Table Data</td>
+<td>Table Data</td>
+<td>Table Data</td>
+</tr>
+<tr>
+<td>Table Data</td>
+<td>Table Data</td>
+<td>Table Data</td>
+</tr>
+<tr>
+<td>Table Data</td>
+<td>Table Data</td>
+<td>Table Data</td>
+</tr>
+</table>
+</td>
+<td>Table Data</td>
+</tr>
+<tr>
+<td>Table Data</td>
+<td>Table Data</td>
+<td>Table Data</td>
+</tr>
+</table>
+</body>
+</html>
+

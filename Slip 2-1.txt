@@ -1,0 +1,19 @@
+<html>
+ <frameset cols="40%,60%">
+ <frameset rows="20%,80%">
+ <frame src="frame 1.html></frame>
+ <frame src="frame 2.html></frame>
+</frameset>
+<frameset rows="50%,50%">
+<frameset cols="50%,50%">
+<frame src="frame 3.html"></frame>
+<frame src="frame 4.html"></frame>
+</frameset>
+<frameset cols="30%,30%,40%">
+<frame src="frame 5.html">
+<frame src="frame 6.html">
+<frame src="frame 7.html">
+</frameset>
+</frameset>
+</frameset>
+</html>

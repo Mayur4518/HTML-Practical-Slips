@@ -1,0 +1,12 @@
+<html>
+<body>
+<canvas id="m" height="500" width="500" style="border"1px solid cyan;">
+</canvas>
+<script>
+var c=document.getElementById("m");
+var ctx=c.getContext("2d");
+ctx.arc(100,100,30,0,2*Math.PI);
+ctx.stroke();
+</script>
+</body>
+</html>

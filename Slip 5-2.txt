@@ -1,0 +1,18 @@
+<html>
+<head>
+ <style>
+    body{
+              background-color:pink;
+           }
+        h1{
+              color:white;
+              text-align:center;
+              font-size:45px;
+           }
+  </style>
+</head>
+<body>
+<h1>WARNING</h1>
+ <marquee>Read the message</marquee>
+</body>
+</html>

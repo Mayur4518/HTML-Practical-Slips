@@ -1,0 +1,7 @@
+<html>
+<svg width="400" height="200">
+<rect x="100" y="50" rx="30" ry="30" width="150"height="100"
+  fill="cyan" stroke="black" stroke-width="5"/>
+</svg>
+</body>
+</html>

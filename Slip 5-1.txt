@@ -1,0 +1,37 @@
+<html>
+<body>
+<h1>Application Form</h1>
+<form>
+ First Name:
+ <input type="text">
+Last Name:
+<input type="text"><br>
+Date of birth:
+<input type="date">
+Age:
+<input type="number"><br>
+Gender:
+<select>
+   <option>Male</option>
+   <option>Female</option>
+  <option>Other</option>
+</select>
+Email Address:
+<input type="email"><br>
+Position Available:
+<input type="radio" name="m">Junior Developer
+<input type="radio" name="m">Mid-level Developer
+<input type="radio" name="m">Senior Developer<br>
+Programming Languages:
+<input type="checkbox">Java
+<input type="checkbox">JavaScript
+<input type="checkbox">Python<br>
+Password:
+<input type="password">
+Confirm Password:
+<input type="password"><br>
+<input type="Submit">
+<input type="Reset">
+</form>
+</body>
+</html>

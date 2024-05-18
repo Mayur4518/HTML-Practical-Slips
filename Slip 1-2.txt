@@ -1,0 +1,14 @@
+Q1.Write a HTML code which generates the following output.
+<html>
+<head>
+<title>list</title>
+</head>
+<body>
+<dl>
+<dt>HTML</dt>
+<dd>HyperText Markup Language</dd>
+<dt>CSS</dt>
+<dd>Cascading Style Sheet</dd>
+</dl>
+</body>
+</html>

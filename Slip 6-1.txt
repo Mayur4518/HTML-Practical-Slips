@@ -1,0 +1,48 @@
+<html>
+<body>
+<table border="1" align=center width="60%">
+<tr>
+<td>Country</td>
+<td colspan="2">Population(In Crores)</td>
+</tr>
+<tr>
+<td rowspan="3">INDIA</td>
+<td>1998</td>
+<td>85</td>
+</tr>
+<tr>
+<td>1999</td>
+<td>90</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>100</tr>
+</tr>
+<td rowspan="3">USA</td>
+<td>1998</td>
+<td>30</td>
+</tr>
+<tr>
+<td>1999</td>
+<td>35</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>40</td>
+</tr>
+<tr>
+<td rowspan="3">UK</td>
+<td>1998</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1999</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>35</td>
+</tr>
+</table>
+</body>
+</html>
